@@ -38,4 +38,4 @@ Your Name - your.email@example.com
 
 ---
 
-*Made with ❤️*
+*Made with ❤️ By Nitin*
